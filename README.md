@@ -9,3 +9,6 @@ A baby pink themed desktop scientific calculator built with Core Java, Swing, an
 - **Error Handling:** Safely handles division by zero and negative square roots.
 
 ## How to Run
+bash
+javac PinkScientificCalculator.java
+java PinkScientificCalculator
