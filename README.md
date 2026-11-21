@@ -12,3 +12,5 @@ A baby pink themed desktop scientific calculator built with Core Java, Swing, an
 bash
 javac PinkScientificCalculator.java
 java PinkScientificCalculator
+
+<img width="1358" height="1227" alt="WhatsApp Image 2026-11-21 at 6 58 41 PM" src="https://github.com/user-attachments/assets/737f9114-ac3d-4a2a-beba-13b24ae6db22" />
